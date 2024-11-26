@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+    <!--Timeout-->
+    <Timeout>5</Timeout>
+    <Timeout02>2</Timeout02>
+    
+    <!--Web-->
+    <BrowserName>chrome</BrowserName>
+    <url>https://react-shopping-cart-67954.firebaseapp.com/</url>
+
+    <!--Mobile-->
+    <UDID>2722ca79c6217ece</UDID>
+    <AppPackage>kr.sira.unit</AppPackage>
+    <AppActivity>.Intro</AppActivity>
+    <AppiumServer>http://localhost:4723/wd/hub</AppiumServer>
+    <KeyboardCharacter>9</KeyboardCharacter>
+    <KeyboardValue>90</KeyboardValue>
+    <AttributeName>text</AttributeName>
+    <ExpectedUSD1>2.77</ExpectedUSD1>
+    <ExpectedUSD2>27.73</ExpectedUSD2>
+
+    <!--API-->
+    <baseURL>https://reqres.in</baseURL>
+
+    <!--Data Driven Testing-->
+    <DDTFile>./DDTFiles/productPrices.csv</DDTFile>
+
+    <!--Electron-->
+    <ElectronDriverPath>C:/Automation/FinalProject/Drivers/electrondriver.exe</ElectronDriverPath>
+    <ElectronAppPath>C:/Users/ritad/AppData/Local/Programs/todolist/Todolist.exe</ElectronAppPath>
+
+    <!--Database-->
+    <DBurl>jdbc:mysql://sql7.freemysqlhosting.net:3306/sql7744876</DBurl>
+    <DBUserName>sql7744876</DBUserName>
+    <DBPassword>mqyqEp2rid</DBPassword>
+
+</Environment>

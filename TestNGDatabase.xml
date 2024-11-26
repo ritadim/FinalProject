@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Database Suite" parallel="false">
+    <test name="Database Tests">
+        <parameter name="PlatformName" value="web"/>
+        <classes>
+            <class name="sanity.ShoppingWebDB">
+            </class>
+        </classes>
+    </test>
+</suite>
