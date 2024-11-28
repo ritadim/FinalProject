@@ -38,7 +38,7 @@ This project utilizes the following technologies:
 - **Allure Reports**: Provides detailed and visually appealing test reports.
 
 
-  ## Applications Used in This Project  
+## Applications Used in This Project  
 
 - **React Shopping Cart**: A demo web-based application.  
 - **Unit Converter**: A mobile application.  
