@@ -1,4 +1,4 @@
-# FinalProject - Automation Testing Framework
+# FinalProject - Automation Testing Project
 ## Description
 
 This project showcases an intelligent and modular automation infrastructure. The framework is organized hierarchically, with modules containing various classes and methods. Key modules include main, common, helpers, actions, and page objects, enabling the creation of tests with minimal code. The design supports working with different types of applications, offering flexibility. One of the major strengths of this infrastructure is its ease of maintenance, making it highly adaptable and efficient for ongoing development.
