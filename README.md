@@ -1,4 +1,4 @@
-# FinalProject - Automation Testing Project
+# Automation Infrastructure Project
 ## Demo Video
 
 [demo video: Tests Run With Jenkins](videos/Running%20Tests%20Using%20Jenkins.mp4)
